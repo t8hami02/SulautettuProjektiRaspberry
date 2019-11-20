@@ -1,0 +1,1 @@
+Tämä git repo on Raspberrylle tarkoitutetulle koodille sulautetun järjestelmän projektia varten
